@@ -22,4 +22,4 @@ This repository contains a machine learning model for detecting fake news using 
 - Link https://www.kaggle.com/c/fake-news/data?select=train.csv
 
 ## Results
-The model achieved an accuracy of approximately XX% on the test dataset. You can visualize the results using various evaluation metrics included in the notebook.
+The model achieved an accuracy of approximately 98% on the test dataset. You can visualize the results using various evaluation metrics included in the notebook.
